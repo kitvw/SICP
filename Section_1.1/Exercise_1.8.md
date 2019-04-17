@@ -7,3 +7,4 @@
 Use this formula to implement a cube-root procedure analogous to the square-root procedure. \(In section 1.3.4 we will see how to implement Newton's method in general as an abstraction of these square-root and cube-root procedures.\) 
 
 **Solution:**
+This is essentially the same thing as the `sqrt` procedure that the book describes, we just change the `improve` procedure to give the correct approximation. Please note that the source code for this exercise is in a separate file.
